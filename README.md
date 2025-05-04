@@ -1,1 +1,1 @@
-this is a test project for learning git
+# updated git homework project description
